@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/level_one_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LevelThree"
+    android:paddingBottom="24dp"
+    android:paddingLeft="18dp"
+    android:paddingRight="18dp"
+    android:paddingTop="16dp"
+    android:background="@drawable/background">
+
+    <Chronometer
+        android:id="@+id/chronometer2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10sp"
+        android:textSize="30sp"
+        android:textColor="@color/white"/>
+
+    <include
+        layout="@layout/level_three_grid"
+        android:layout_width="wrap_content"
+        android:layout_height="450dp"
+        android:layout_below="@+id/chronometer2"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/include" />
+
+    <Button
+        android:id="@+id/btnreset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="Reset" />
+
+    <Button
+        android:id="@+id/btnhint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="Hint" />
+
+    <Button
+        android:id="@+id/btnplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:onClick="startChronometer"
+        android:text="Play" />
+
+
+</RelativeLayout>

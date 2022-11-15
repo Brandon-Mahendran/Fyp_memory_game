@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/drawable-v24/buttonlogin.xml" value="0.1125" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/drawable/buttonlevel.xml" value="0.1125" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1125" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1125" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/drawable/list_dividers.xml" value="0.1125" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/drawable/side_nav_bar.xml" value="0.1125" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_edit_user_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_level_five.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_level_five_score.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_level_four.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_level_four_score.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_level_one.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_level_one_score.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_level_six.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_level_six_score.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_level_three.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_level_three_score.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_level_two.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_level_two_score.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_main_new.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_main_one.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/activity_splash_screen.xml" value="0.10869565217391304" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/content_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/dialog_box.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/dialog_box_achievement.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/level_five_grid.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/level_four_grid.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/level_one_grid.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/level_six_grid.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/level_three_grid.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/level_two_grid.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/list_achievement_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/menu/levelfive_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/menu/levelfour_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/menu/levelone_menu.xml" value="0.5987654320987654" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/menu/levelsix_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/menu/levelthree_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/menu/leveltwo_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/mipmap-anydpi-v26/app_icon.xml" value="0.1125" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1125" />
+        <entry key="..\:/Users/Brandon/Documents/Android_Studio_Projects/Fyp_memory_game/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
